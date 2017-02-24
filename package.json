@@ -1,0 +1,26 @@
+{
+  "name": "node-wp-cli",
+  "version": "0.0.1",
+  "description": "A nodejs wrapper for `WP-CLI`",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./bin/postinstall.js",
+    "lint": "jshint ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodeflex/node-wp-cli.git"
+  },
+  "author": "thinkholic <mailtokasun@gmail.com> (http://www.thinkholic.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodeflex/node-wp-cli/issues"
+  },
+  "homepage": "https://github.com/kodeflex/node-wp-cli#readme",
+  "dependencies": {
+    "shelljs": "^0.7.6"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  }
+}
