@@ -24,6 +24,8 @@ wpCli.call('core download', { path: 'myWPSite' }, function(err, resp) {
 })
 ```
 
+Click [here](http://wp-cli.org/commands/) to see all the `WP-CLI` commands.
+
 ## Credits
 
 * All the contributors of [`WP-CLI`](https://github.com/wp-cli/wp-cli)
