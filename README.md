@@ -1,5 +1,7 @@
 # node-wp-cli
 
+[![npm version](https://badge.fury.io/js/node-wp-cli.svg)](https://badge.fury.io/js/node-wp-cli) [![dependencies Status](https://david-dm.org/kodeflex/node-wp-cli/status.svg)](https://david-dm.org/kodeflex/node-wp-cli)
+
 A nodejs wrapper for [`WP-CLI`](http://wp-cli.org/).
 
 You just need to install this NPM package and `WP-CLI` will install automatically to your computer without doing any additional step.
