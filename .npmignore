@@ -2,4 +2,5 @@ node_modules/
 tests/
 .DS_Store
 npm-debug.log
+package-lock.json
 wp-cli

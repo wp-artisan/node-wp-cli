@@ -1,6 +1,6 @@
 {
   "name": "node-wp-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A nodejs wrapper for `WP-CLI`",
   "main": "./lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/kodeflex/node-wp-cli#readme",
   "dependencies": {
     "lodash": "^4.17.4",
-    "shelljs": "^0.7.6"
+    "shelljs": "^0.8.1"
   },
   "devDependencies": {
     "jshint": "^2.9.4"
