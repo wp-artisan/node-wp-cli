@@ -1,6 +1,6 @@
 {
   "name": "node-wp-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A nodejs wrapper for `WP-CLI`",
   "main": "./lib/index.js",
   "scripts": {
